@@ -1,0 +1,75 @@
+date,2019-08-14-19:47:40
+min_value,1
+max_value,6
+min_key,mission
+max_key,emotion
+health,5
+family,4
+friends,3
+intimate relationship,2
+mission,1
+finances,2
+adventure,3
+hobby,4
+spirituality,5
+emotion,6
+date,2019-08-14-19:49:28
+min_value,5
+max_value,10
+min_key,mission
+max_key,family
+health,10
+family,10
+friends,10
+intimate relationship,10
+mission,5
+finances,10
+adventure,10
+hobby,10
+spirituality,10
+emotion,10
+date,2019-08-14-20:12:10
+min_value,7
+max_value,9
+min_key,health
+max_key,intimate relationship
+health,7
+family,8
+friends,8
+intimate relationship,9
+mission,8
+finances,8
+adventure,8
+hobby,7
+spirituality,8
+emotion,9
+date,2019-08-14-21:55:20
+min_value,5
+max_value,55
+min_key,health
+max_key,family
+health,5
+family,55
+friends,5
+intimate relationship,5
+mission,5
+finances,5
+adventure,5
+hobby,5
+spirituality,5
+emotion,5
+date,2019-08-17-01:25:07
+min_value,5
+max_value,10
+min_key,adventure
+max_key,family
+health,10
+family,10
+friends,7
+intimate relationship,10
+mission,10
+finances,10
+adventure,5
+hobby,6
+spirituality,10
+emotion,10
